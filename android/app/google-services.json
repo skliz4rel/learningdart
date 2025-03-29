@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870151273124",
+    "project_id": "todoflutterapp-7bf8a",
+    "storage_bucket": "todoflutterapp-7bf8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870151273124:android:0b5535d379a5107ce20431",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe0LzxAXYQgbVf1hdnl9y6mkbEGyc1p5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
